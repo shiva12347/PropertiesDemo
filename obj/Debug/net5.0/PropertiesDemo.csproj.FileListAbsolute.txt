@@ -1,0 +1,16 @@
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.exe
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.deps.json
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.runtimeconfig.json
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.runtimeconfig.dev.json
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.dll
+E:\practice\PropertiesDemo\bin\Debug\net5.0\ref\PropertiesDemo.dll
+E:\practice\PropertiesDemo\bin\Debug\net5.0\PropertiesDemo.pdb
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.csproj.AssemblyReference.cache
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.AssemblyInfoInputs.cache
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.AssemblyInfo.cs
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.csproj.CoreCompileInputs.cache
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.dll
+E:\practice\PropertiesDemo\obj\Debug\net5.0\ref\PropertiesDemo.dll
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.pdb
+E:\practice\PropertiesDemo\obj\Debug\net5.0\PropertiesDemo.genruntimeconfig.cache
